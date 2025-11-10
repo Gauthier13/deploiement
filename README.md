@@ -1,3 +1,2 @@
-# wns-deploy
-
-continuous deployment 104
+### Learning by doing
+Learning deployment with Docker and Nginx. 
